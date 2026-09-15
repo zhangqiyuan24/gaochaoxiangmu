@@ -1,0 +1,1035 @@
+{
+ "5000Hz_3": {
+  "scale": 1.24,
+  "n_events": 20,
+  "algos": {
+   "CBF": {
+    "0": {
+     "mean": 1.895,
+     "std": 1.0719,
+     "median": 2.5692,
+     "success": 0
+    },
+    "5": {
+     "mean": 1.3001,
+     "std": 1.0371,
+     "median": 0.6389,
+     "success": 0
+    },
+    "10": {
+     "mean": 0.7485,
+     "std": 0.5033,
+     "median": 0.6389,
+     "success": 0
+    },
+    "15": {
+     "mean": 0.6319,
+     "std": 0.012,
+     "median": 0.6389,
+     "success": 0
+    },
+    "20": {
+     "mean": 0.6347,
+     "std": 0.0099,
+     "median": 0.6389,
+     "success": 0
+    },
+    "clean": {
+     "mean": 0.6389,
+     "std": 0,
+     "median": 0.6389,
+     "success": 0
+    },
+    "-5": {
+     "mean": 2.3028,
+     "std": 0.9325,
+     "median": 2.7142,
+     "success": 0.05
+    },
+    "-10": {
+     "mean": 2.222,
+     "std": 0.8212,
+     "median": 2.513,
+     "success": 0.1
+    },
+    "-15": {
+     "mean": 2.3323,
+     "std": 0.9163,
+     "median": 2.6552,
+     "success": 0.05
+    },
+    "-20": {
+     "mean": 1.5647,
+     "std": 0.7858,
+     "median": 1.5973,
+     "success": 0.15
+    },
+    "critical_snr_db": null
+   },
+   "MVDR": {
+    "0": {
+     "mean": 2.2257,
+     "std": 1.009,
+     "median": 2.7828,
+     "success": 0.1
+    },
+    "5": {
+     "mean": 1.6793,
+     "std": 0.9994,
+     "median": 1.826,
+     "success": 0.25
+    },
+    "10": {
+     "mean": 0.4259,
+     "std": 0.6635,
+     "median": 0.2093,
+     "success": 0.85
+    },
+    "15": {
+     "mean": 0.1822,
+     "std": 0.0263,
+     "median": 0.169,
+     "success": 1
+    },
+    "20": {
+     "mean": 0.1846,
+     "std": 0.0175,
+     "median": 0.1817,
+     "success": 1
+    },
+    "clean": {
+     "mean": 0.1944,
+     "std": 0,
+     "median": 0.1944,
+     "success": 1
+    },
+    "-5": {
+     "mean": 2.3858,
+     "std": 0.7634,
+     "median": 2.5672,
+     "success": 0.05
+    },
+    "-10": {
+     "mean": 1.9151,
+     "std": 0.7265,
+     "median": 2.0152,
+     "success": 0.05
+    },
+    "-15": {
+     "mean": 2.1144,
+     "std": 0.6459,
+     "median": 2.2238,
+     "success": 0
+    },
+    "-20": {
+     "mean": 2.4034,
+     "std": 0.572,
+     "median": 2.4469,
+     "success": 0
+    },
+    "critical_snr_db": 10
+   },
+   "MUSIC": {
+    "0": {
+     "mean": 2.269,
+     "std": 0.9264,
+     "median": 2.5655,
+     "success": 0
+    },
+    "5": {
+     "mean": 2.5718,
+     "std": 0.7866,
+     "median": 2.7397,
+     "success": 0
+    },
+    "10": {
+     "mean": 1.9384,
+     "std": 0.9173,
+     "median": 1.935,
+     "success": 0.05
+    },
+    "15": {
+     "mean": 2.3264,
+     "std": 0.6006,
+     "median": 2.2252,
+     "success": 0
+    },
+    "20": {
+     "mean": 2.3715,
+     "std": 0.4831,
+     "median": 2.4849,
+     "success": 0
+    },
+    "clean": {
+     "mean": 1.7402,
+     "std": 0.8182,
+     "median": 1.4885,
+     "success": 0.05
+    },
+    "-5": {
+     "mean": 2.3291,
+     "std": 0.7613,
+     "median": 2.4605,
+     "success": 0
+    },
+    "-10": {
+     "mean": 2.2872,
+     "std": 0.7073,
+     "median": 2.4906,
+     "success": 0
+    },
+    "-15": {
+     "mean": 2.0128,
+     "std": 0.7888,
+     "median": 2.1517,
+     "success": 0.1
+    },
+    "-20": {
+     "mean": 2.1358,
+     "std": 0.8164,
+     "median": 2.3389,
+     "success": 0.05
+    },
+    "critical_snr_db": null
+   },
+   "MUSIC_CSDM": {
+    "0": {
+     "mean": 2.1684,
+     "std": 0.9463,
+     "median": 2.5002,
+     "success": 0.1
+    },
+    "5": {
+     "mean": 2.0054,
+     "std": 0.7518,
+     "median": 1.9319,
+     "success": 0.05
+    },
+    "10": {
+     "mean": 1.3577,
+     "std": 0.8428,
+     "median": 1.3729,
+     "success": 0.25
+    },
+    "15": {
+     "mean": 1.4775,
+     "std": 0.9259,
+     "median": 1.7471,
+     "success": 0.3
+    },
+    "20": {
+     "mean": 1.5702,
+     "std": 1.181,
+     "median": 1.9548,
+     "success": 0.4
+    },
+    "clean": {
+     "mean": 0.5324,
+     "std": 0.0994,
+     "median": 0.5143,
+     "success": 0.45
+    },
+    "-5": {
+     "mean": 2.3005,
+     "std": 0.8591,
+     "median": 2.5672,
+     "success": 0.05
+    },
+    "-10": {
+     "mean": 1.9005,
+     "std": 0.7276,
+     "median": 1.965,
+     "success": 0.05
+    },
+    "-15": {
+     "mean": 2.1144,
+     "std": 0.6459,
+     "median": 2.2238,
+     "success": 0
+    },
+    "-20": {
+     "mean": 2.4034,
+     "std": 0.572,
+     "median": 2.4469,
+     "success": 0
+    },
+    "critical_snr_db": null
+   }
+  }
+ },
+ "3000Hz_2": {
+  "scale": 1.24,
+  "n_events": 20,
+  "algos": {
+   "CBF": {
+    "0": {
+     "mean": 1.1596,
+     "std": 0.8551,
+     "median": 1.4821,
+     "success": 0.35
+    },
+    "5": {
+     "mean": 0.9759,
+     "std": 0.9172,
+     "median": 1.0397,
+     "success": 0.45
+    },
+    "10": {
+     "mean": 0.9692,
+     "std": 0.8464,
+     "median": 1.6782,
+     "success": 0.45
+    },
+    "15": {
+     "mean": 0.8836,
+     "std": 0.855,
+     "median": 0.8461,
+     "success": 0.5
+    },
+    "20": {
+     "mean": 1.0598,
+     "std": 0.8346,
+     "median": 1.684,
+     "success": 0.4
+    },
+    "clean": {
+     "mean": 0.8876,
+     "std": 0.8561,
+     "median": 0.8669,
+     "success": 0.5
+    },
+    "-5": {
+     "mean": 1.092,
+     "std": 0.6509,
+     "median": 1.2086,
+     "success": 0.25
+    },
+    "-10": {
+     "mean": 1.593,
+     "std": 0.8353,
+     "median": 1.6167,
+     "success": 0.15
+    },
+    "-15": {
+     "mean": 1.5026,
+     "std": 0.5848,
+     "median": 1.4917,
+     "success": 0.05
+    },
+    "-20": {
+     "mean": 1.4771,
+     "std": 0.4609,
+     "median": 1.4776,
+     "success": 0
+    },
+    "critical_snr_db": null
+   },
+   "MVDR": {
+    "0": {
+     "mean": 0.602,
+     "std": 0.4973,
+     "median": 0.4085,
+     "success": 0.7
+    },
+    "5": {
+     "mean": 0.3943,
+     "std": 0.0684,
+     "median": 0.3977,
+     "success": 0.9
+    },
+    "10": {
+     "mean": 0.4171,
+     "std": 0.0778,
+     "median": 0.4279,
+     "success": 0.85
+    },
+    "15": {
+     "mean": 0.4804,
+     "std": 0.374,
+     "median": 0.4045,
+     "success": 0.95
+    },
+    "20": {
+     "mean": 0.4047,
+     "std": 0.0703,
+     "median": 0.4045,
+     "success": 0.95
+    },
+    "clean": {
+     "mean": 0.4097,
+     "std": 0.0711,
+     "median": 0.4145,
+     "success": 0.9
+    },
+    "-5": {
+     "mean": 1.2478,
+     "std": 0.9354,
+     "median": 0.9386,
+     "success": 0.3
+    },
+    "-10": {
+     "mean": 1.8607,
+     "std": 0.5967,
+     "median": 1.8791,
+     "success": 0
+    },
+    "-15": {
+     "mean": 1.6464,
+     "std": 0.8579,
+     "median": 1.7016,
+     "success": 0.05
+    },
+    "-20": {
+     "mean": 1.79,
+     "std": 0.6293,
+     "median": 1.7131,
+     "success": 0.05
+    },
+    "critical_snr_db": 5
+   },
+   "MUSIC": {
+    "0": {
+     "mean": 1.4638,
+     "std": 0.674,
+     "median": 1.5458,
+     "success": 0
+    },
+    "5": {
+     "mean": 1.4423,
+     "std": 0.4717,
+     "median": 1.6199,
+     "success": 0
+    },
+    "10": {
+     "mean": 1.3797,
+     "std": 0.8689,
+     "median": 1.2623,
+     "success": 0.1
+    },
+    "15": {
+     "mean": 1.6448,
+     "std": 0.7692,
+     "median": 1.5918,
+     "success": 0.1
+    },
+    "20": {
+     "mean": 1.7499,
+     "std": 0.8845,
+     "median": 1.6276,
+     "success": 0.1
+    },
+    "clean": {
+     "mean": 1.54,
+     "std": 1.1027,
+     "median": 1.1912,
+     "success": 0.1
+    },
+    "-5": {
+     "mean": 2.0027,
+     "std": 0.888,
+     "median": 2.0262,
+     "success": 0.1
+    },
+    "-10": {
+     "mean": 1.7524,
+     "std": 0.5406,
+     "median": 1.6234,
+     "success": 0
+    },
+    "-15": {
+     "mean": 1.3862,
+     "std": 0.8356,
+     "median": 1.3811,
+     "success": 0.15
+    },
+    "-20": {
+     "mean": 1.6028,
+     "std": 0.7718,
+     "median": 1.4173,
+     "success": 0
+    },
+    "critical_snr_db": null
+   },
+   "MUSIC_CSDM": {
+    "0": {
+     "mean": 1.7829,
+     "std": 0.71,
+     "median": 1.7643,
+     "success": 0.05
+    },
+    "5": {
+     "mean": 1.5771,
+     "std": 1.0427,
+     "median": 1.4746,
+     "success": 0.15
+    },
+    "10": {
+     "mean": 1.4771,
+     "std": 0.5723,
+     "median": 1.5222,
+     "success": 0.05
+    },
+    "15": {
+     "mean": 1.6732,
+     "std": 1.0905,
+     "median": 1.5104,
+     "success": 0.2
+    },
+    "20": {
+     "mean": 1.2307,
+     "std": 0.929,
+     "median": 1.0567,
+     "success": 0.25
+    },
+    "clean": {
+     "mean": 3.5952,
+     "std": 1.0216,
+     "median": 4.0004,
+     "success": 0.05
+    },
+    "-5": {
+     "mean": 1.6797,
+     "std": 0.9901,
+     "median": 1.6343,
+     "success": 0.1
+    },
+    "-10": {
+     "mean": 1.7764,
+     "std": 0.5959,
+     "median": 1.808,
+     "success": 0
+    },
+    "-15": {
+     "mean": 1.6348,
+     "std": 0.9334,
+     "median": 1.6459,
+     "success": 0.1
+    },
+    "-20": {
+     "mean": 1.7595,
+     "std": 0.6091,
+     "median": 1.7131,
+     "success": 0.05
+    },
+    "critical_snr_db": null
+   }
+  }
+ },
+ "1000Hz_1": {
+  "scale": 1.24,
+  "n_events": 20,
+  "algos": {
+   "CBF": {
+    "0": {
+     "mean": 2.8006,
+     "std": 1.2988,
+     "median": 2.132,
+     "success": 0
+    },
+    "5": {
+     "mean": 3.2365,
+     "std": 1.4525,
+     "median": 2.1817,
+     "success": 0
+    },
+    "10": {
+     "mean": 2.9131,
+     "std": 1.4239,
+     "median": 1.9557,
+     "success": 0
+    },
+    "15": {
+     "mean": 3.1395,
+     "std": 1.488,
+     "median": 2.036,
+     "success": 0
+    },
+    "20": {
+     "mean": 3.0171,
+     "std": 1.4558,
+     "median": 1.9714,
+     "success": 0
+    },
+    "clean": {
+     "mean": 3.0147,
+     "std": 1.4576,
+     "median": 1.9682,
+     "success": 0
+    },
+    "-5": {
+     "mean": 1.8778,
+     "std": 0.9076,
+     "median": 1.6849,
+     "success": 0
+    },
+    "-10": {
+     "mean": 1.5465,
+     "std": 0.68,
+     "median": 1.1897,
+     "success": 0
+    },
+    "-15": {
+     "mean": 1.386,
+     "std": 0.9698,
+     "median": 1.0258,
+     "success": 0.2
+    },
+    "-20": {
+     "mean": 2.2038,
+     "std": 1.2684,
+     "median": 2.2238,
+     "success": 0.05
+    },
+    "critical_snr_db": null
+   },
+   "MVDR": {
+    "0": {
+     "mean": 0.9288,
+     "std": 0.0846,
+     "median": 0.9453,
+     "success": 0
+    },
+    "5": {
+     "mean": 0.9525,
+     "std": 0.0585,
+     "median": 1.0002,
+     "success": 0
+    },
+    "10": {
+     "mean": 0.958,
+     "std": 0.0431,
+     "median": 0.9599,
+     "success": 0
+    },
+    "15": {
+     "mean": 0.9747,
+     "std": 0.0354,
+     "median": 1.0004,
+     "success": 0
+    },
+    "20": {
+     "mean": 0.987,
+     "std": 0.0342,
+     "median": 1.0004,
+     "success": 0
+    },
+    "clean": {
+     "mean": 0.9856,
+     "std": 0.0294,
+     "median": 1.0004,
+     "success": 0
+    },
+    "-5": {
+     "mean": 0.8151,
+     "std": 0.1252,
+     "median": 0.7827,
+     "success": 0
+    },
+    "-10": {
+     "mean": 1.0893,
+     "std": 1.0106,
+     "median": 0.6419,
+     "success": 0.3
+    },
+    "-15": {
+     "mean": 1.764,
+     "std": 1.3542,
+     "median": 1.1095,
+     "success": 0.05
+    },
+    "-20": {
+     "mean": 1.5803,
+     "std": 0.8537,
+     "median": 1.4022,
+     "success": 0
+    },
+    "critical_snr_db": null
+   },
+   "MUSIC": {
+    "0": {
+     "mean": 1.7352,
+     "std": 1.0589,
+     "median": 1.5614,
+     "success": 0.1
+    },
+    "5": {
+     "mean": 1.7323,
+     "std": 1.0081,
+     "median": 1.3046,
+     "success": 0.05
+    },
+    "10": {
+     "mean": 1.9054,
+     "std": 0.9794,
+     "median": 1.8597,
+     "success": 0
+    },
+    "15": {
+     "mean": 1.6579,
+     "std": 0.9753,
+     "median": 1.4463,
+     "success": 0.1
+    },
+    "20": {
+     "mean": 1.8009,
+     "std": 1.2545,
+     "median": 1.6804,
+     "success": 0.15
+    },
+    "clean": {
+     "mean": 1.5664,
+     "std": 1.0827,
+     "median": 1.2979,
+     "success": 0.1
+    },
+    "-5": {
+     "mean": 1.7248,
+     "std": 1.042,
+     "median": 1.6756,
+     "success": 0.1
+    },
+    "-10": {
+     "mean": 1.6503,
+     "std": 0.8798,
+     "median": 1.3528,
+     "success": 0.05
+    },
+    "-15": {
+     "mean": 1.8225,
+     "std": 1.0998,
+     "median": 1.6317,
+     "success": 0.1
+    },
+    "-20": {
+     "mean": 1.7139,
+     "std": 1.2338,
+     "median": 1.2718,
+     "success": 0.05
+    },
+    "critical_snr_db": null
+   },
+   "MUSIC_CSDM": {
+    "0": {
+     "mean": 1.4578,
+     "std": 0.9579,
+     "median": 1.3008,
+     "success": 0.1
+    },
+    "5": {
+     "mean": 1.537,
+     "std": 1.0942,
+     "median": 0.8943,
+     "success": 0.1
+    },
+    "10": {
+     "mean": 1.5761,
+     "std": 1.0327,
+     "median": 1.2836,
+     "success": 0.1
+    },
+    "15": {
+     "mean": 1.3463,
+     "std": 1.1221,
+     "median": 0.9918,
+     "success": 0.2
+    },
+    "20": {
+     "mean": 1.173,
+     "std": 0.9067,
+     "median": 0.8887,
+     "success": 0.3
+    },
+    "clean": {
+     "mean": 1.5055,
+     "std": 1.1674,
+     "median": 0.9982,
+     "success": 0.2
+    },
+    "-5": {
+     "mean": 1.0988,
+     "std": 0.7193,
+     "median": 0.8274,
+     "success": 0.25
+    },
+    "-10": {
+     "mean": 1.343,
+     "std": 0.9241,
+     "median": 1.1468,
+     "success": 0.3
+    },
+    "-15": {
+     "mean": 1.5291,
+     "std": 0.8755,
+     "median": 1.4235,
+     "success": 0
+    },
+    "-20": {
+     "mean": 1.5859,
+     "std": 0.9529,
+     "median": 1.2554,
+     "success": 0.05
+    },
+    "critical_snr_db": null
+   }
+  }
+ },
+ "11000Hz_1": {
+  "scale": 1.24,
+  "n_events": 20,
+  "algos": {
+   "CBF": {
+    "0": {
+     "mean": 1.9164,
+     "std": 0.9347,
+     "median": 1.7471,
+     "success": 0.05
+    },
+    "5": {
+     "mean": 2.3696,
+     "std": 0.5699,
+     "median": 2.8356,
+     "success": 0
+    },
+    "10": {
+     "mean": 2.4402,
+     "std": 0.6359,
+     "median": 2.8384,
+     "success": 0
+    },
+    "15": {
+     "mean": 2.8367,
+     "std": 0.0026,
+     "median": 2.8384,
+     "success": 0
+    },
+    "20": {
+     "mean": 2.7784,
+     "std": 0.2561,
+     "median": 2.8384,
+     "success": 0
+    },
+    "clean": {
+     "mean": 2.837,
+     "std": 0.0024,
+     "median": 2.8384,
+     "success": 0
+    },
+    "-5": {
+     "mean": 1.7342,
+     "std": 0.9978,
+     "median": 1.513,
+     "success": 0.1
+    },
+    "-10": {
+     "mean": 1.6452,
+     "std": 1.1831,
+     "median": 1.2372,
+     "success": 0.1
+    },
+    "-15": {
+     "mean": 1.652,
+     "std": 1.0728,
+     "median": 1.2434,
+     "success": 0.05
+    },
+    "-20": {
+     "mean": 1.2702,
+     "std": 0.9933,
+     "median": 1.0118,
+     "success": 0.2
+    },
+    "critical_snr_db": null
+   },
+   "MVDR": {
+    "0": {
+     "mean": 0.7892,
+     "std": 1.1076,
+     "median": 0.169,
+     "success": 0.7
+    },
+    "5": {
+     "mean": 0.5703,
+     "std": 1.2816,
+     "median": 0.1416,
+     "success": 0.9
+    },
+    "10": {
+     "mean": 0.1444,
+     "std": 0.0082,
+     "median": 0.1416,
+     "success": 1
+    },
+    "15": {
+     "mean": 0.1416,
+     "std": 0,
+     "median": 0.1416,
+     "success": 1
+    },
+    "20": {
+     "mean": 0.1416,
+     "std": 0,
+     "median": 0.1416,
+     "success": 1
+    },
+    "clean": {
+     "mean": 0.1416,
+     "std": 0,
+     "median": 0.1416,
+     "success": 1
+    },
+    "-5": {
+     "mean": 1.9767,
+     "std": 1.5873,
+     "median": 1.2965,
+     "success": 0.1
+    },
+    "-10": {
+     "mean": 1.8289,
+     "std": 1.2011,
+     "median": 1.4605,
+     "success": 0.05
+    },
+    "-15": {
+     "mean": 1.4296,
+     "std": 1.1921,
+     "median": 1.0367,
+     "success": 0.1
+    },
+    "-20": {
+     "mean": 1.3332,
+     "std": 0.8249,
+     "median": 1.1344,
+     "success": 0.15
+    },
+    "critical_snr_db": 10
+   },
+   "MUSIC": {
+    "0": {
+     "mean": 1.8188,
+     "std": 0.8063,
+     "median": 2.002,
+     "success": 0.1
+    },
+    "5": {
+     "mean": 1.8792,
+     "std": 1.1683,
+     "median": 1.573,
+     "success": 0.15
+    },
+    "10": {
+     "mean": 1.5546,
+     "std": 0.8269,
+     "median": 1.476,
+     "success": 0.1
+    },
+    "15": {
+     "mean": 1.4488,
+     "std": 0.8454,
+     "median": 1.396,
+     "success": 0.1
+    },
+    "20": {
+     "mean": 1.5536,
+     "std": 0.9649,
+     "median": 1.2493,
+     "success": 0.05
+    },
+    "clean": {
+     "mean": 1.3989,
+     "std": 0.9305,
+     "median": 1.4221,
+     "success": 0.15
+    },
+    "-5": {
+     "mean": 1.5375,
+     "std": 0.7919,
+     "median": 1.497,
+     "success": 0.1
+    },
+    "-10": {
+     "mean": 1.9246,
+     "std": 1.1921,
+     "median": 1.6485,
+     "success": 0
+    },
+    "-15": {
+     "mean": 1.6378,
+     "std": 1.0832,
+     "median": 1.2934,
+     "success": 0.05
+    },
+    "-20": {
+     "mean": 2.066,
+     "std": 1.4618,
+     "median": 1.9117,
+     "success": 0.15
+    },
+    "critical_snr_db": null
+   },
+   "MUSIC_CSDM": {
+    "0": {
+     "mean": 1.2818,
+     "std": 0.9761,
+     "median": 0.9399,
+     "success": 0.35
+    },
+    "5": {
+     "mean": 1.839,
+     "std": 1.6723,
+     "median": 1.2336,
+     "success": 0.25
+    },
+    "10": {
+     "mean": 2.1762,
+     "std": 1.8331,
+     "median": 1.324,
+     "success": 0.25
+    },
+    "15": {
+     "mean": 1.4641,
+     "std": 1.8237,
+     "median": 0.4873,
+     "success": 0.5
+    },
+    "20": {
+     "mean": 1.4315,
+     "std": 1.648,
+     "median": 0.7396,
+     "success": 0.45
+    },
+    "clean": {
+     "mean": 2.0709,
+     "std": 2.1488,
+     "median": 0.169,
+     "success": 0.55
+    },
+    "-5": {
+     "mean": 1.9798,
+     "std": 1.5533,
+     "median": 1.4654,
+     "success": 0.1
+    },
+    "-10": {
+     "mean": 1.7175,
+     "std": 1.1057,
+     "median": 1.3138,
+     "success": 0.05
+    },
+    "-15": {
+     "mean": 1.4916,
+     "std": 1.1788,
+     "median": 1.0549,
+     "success": 0.1
+    },
+    "-20": {
+     "mean": 1.3332,
+     "std": 0.8249,
+     "median": 1.1344,
+     "success": 0.15
+    },
+    "critical_snr_db": null
+   }
+  }
+ },
+ "_note": "7000Hz_3 excluded: only 1 valid wav in the campaign directory. Merged from two runs (e2_v3, e2_v3b)."
+}

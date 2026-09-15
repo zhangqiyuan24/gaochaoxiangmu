@@ -42,15 +42,17 @@ The raw 8-channel wav recordings (24-bit PCM, 64 kHz, 10 ms bursts) are
 proprietary tank-experiment data and are **not** included; the pipeline
 reads them from a per-condition directory tree
 `<freq>Hz <dist>/*.wav` (MATLAB `dir()` ordering is reproduced for
-event-index compatibility).
+event-index compatibility). Note: in the source campaign three projector
+conditions (5 kHz/2 m, 7 kHz/2 m, 7 kHz/3 m) retained only a single valid
+recording each and 13 kHz/3 m is empty; the runners handle this.
 
 ## Reproducing
 
 ```bash
 python3 code/val_hist8.py     # ~1.5 h: per-condition scale calibration
 python3 code/run_315_tone.py  # E1 full rerun (all tone conditions)
-E2_CONDS=5000Hz_3,3000Hz_2,7000Hz_3 python3 code/run_e2_snr.py  # E2 sweep
-node code/fig4_snr.mjs results/e2_v3/e2_snr.csv outdir 4.5       # Fig. 4
+E2_CONDS=5000Hz_3,3000Hz_2,11000Hz_1 python3 code/run_e2_snr.py  # E2 sweep
+node code/fig4_snr.mjs results/e2_snr.csv outdir 5000Hz_3,3000Hz_2,11000Hz_1 4.5  # Fig. 4
 ```
 
 Requires numpy/scipy (any recent version); PYTHONPATH must point at the

@@ -1,0 +1,7 @@
+5000Hz_3 s=1.24 n=20: CBF clean_mu=0.6389 crit=None | MVDR clean_mu=0.1944 crit=10 | MUSIC clean_mu=1.7402 crit=None | MUSIC_CSDM clean_mu=0.5324 crit=None
+3000Hz_2 s=1.24 n=20: CBF clean_mu=0.8876 crit=None | MVDR clean_mu=0.4097 crit=5 | MUSIC clean_mu=1.54 crit=None | MUSIC_CSDM clean_mu=3.5952 crit=None
+7000Hz_3 s=1.24 n=1: CBF clean_mu=0.6111 crit=None | MVDR clean_mu=0.473 crit=20 | MUSIC clean_mu=1.4423 crit=None | MUSIC_CSDM clean_mu=1.9444 crit=None
+DONE
+1000Hz_1 s=1.24 n=20: CBF clean_mu=3.0147 crit=None | MVDR clean_mu=0.9856 crit=None | MUSIC clean_mu=1.5664 crit=None | MUSIC_CSDM clean_mu=1.5055 crit=None
+11000Hz_1 s=1.24 n=20: CBF clean_mu=2.837 crit=None | MVDR clean_mu=0.1416 crit=10 | MUSIC clean_mu=1.3989 crit=None | MUSIC_CSDM clean_mu=2.0709 crit=None
+DONE
