@@ -1,0 +1,36 @@
+1000Hz_1: s=1.24 (p1 0/6) MVDR 15/20 mine_mu=0.9856/md=1.0004 arch_mu=1.0016/md=1.0015 CBF 7/20 mine_mu=3.0147/md=1.9682 arch_mu=4.1396/md=5.0001 MUSIC 0/20 mine_mu=1.5664/md=1.2979 arch_mu=2.1125/md=1.9677 MUSIC_CSDM 0/20 mine_mu=1.5055/md=0.9982 arch_mu=1.4406/md=1.0631
+1000Hz_2: s=1.24 (p1 0/6) MVDR 0/20 mine_mu=1.749/md=1.9557 arch_mu=2.1023/md=2.1563 CBF 2/20 mine_mu=2.4215/md=2.3916 arch_mu=2.6514/md=2.3085 MUSIC 0/20 mine_mu=1.6621/md=1.6265 arch_mu=1.6284/md=1.4432 MUSIC_CSDM 0/20 mine_mu=1.8268/md=1.482 arch_mu=1.7006/md=1.884
+1000Hz_3: s=1.24 (p1 0/6) MVDR 0/20 mine_mu=2.0388/md=2.016 arch_mu=2.5091/md=2.5264 CBF 0/20 mine_mu=1.0864/md=1.0729 arch_mu=1.1621/md=1.1612 MUSIC 0/20 mine_mu=1.9239/md=1.9949 arch_mu=1.9635/md=2.0576 MUSIC_CSDM 0/20 mine_mu=1.7772/md=1.8965 arch_mu=2.0495/md=2.2234
+11000Hz_1: s=1.24 (p1 0/6) MVDR 0/20 mine_mu=0.1416/md=0.1416 arch_mu=0.4642/md=0.2792 CBF 0/20 mine_mu=2.837/md=2.8384 arch_mu=1.0819/md=1.0819 MUSIC 0/20 mine_mu=1.3989/md=1.4221 arch_mu=1.5733/md=1.377 MUSIC_CSDM 0/20 mine_mu=2.0709/md=0.169 arch_mu=1.4928/md=1.212
+11000Hz_2: s=1.24 (p1 0/6) MVDR 0/20 mine_mu=0.6227/md=0.5365 arch_mu=2.5278/md=2.5278 CBF 0/20 mine_mu=1.9393/md=1.9393 arch_mu=0.5479/md=0.5479 MUSIC 0/20 mine_mu=1.5941/md=1.6183 arch_mu=1.5516/md=1.4463 MUSIC_CSDM 0/20 mine_mu=1.6383/md=1.7502 arch_mu=1.6894/md=1.7527
+11000Hz_3: s=1.2 (p1 3/6) MVDR 0/20 mine_mu=1.505/md=1.5064 arch_mu=1.501/md=1.501 CBF 0/20 mine_mu=3.0587/md=3.0587 arch_mu=2.5703/md=2.5778 MUSIC 0/20 mine_mu=1.8221/md=1.8474 arch_mu=1.9189/md=1.692 MUSIC_CSDM 0/20 mine_mu=1.4035/md=1.5836 arch_mu=1.5332/md=1.0854
+13000Hz_1: s=1.24 (p1 0/6) MVDR 0/20 mine_mu=1.8639/md=2.2684 arch_mu=2.6305/md=2.6402 CBF 0/20 mine_mu=1.4083/md=1.0198 arch_mu=0.0556/md=0.0556 MUSIC 0/20 mine_mu=2.5375/md=2.4262 arch_mu=1.1079/md=1.1737 MUSIC_CSDM 0/20 mine_mu=2.4535/md=2.2229 arch_mu=1.3941/md=0.7683
+13000Hz_2: s=1.24 (p1 0/6) MVDR 0/20 mine_mu=2.286/md=2.7669 arch_mu=2.8136/md=2.9013 CBF 0/20 mine_mu=1.6782/md=1.8184 arch_mu=1.0957/md=0.9372 MUSIC 0/20 mine_mu=1.9716/md=1.7648 arch_mu=1.6375/md=1.3858 MUSIC_CSDM 0/20 mine_mu=2.02/md=1.7798 arch_mu=1.2697/md=1.0002
+3000Hz_1: s=1.24 (p1 0/6) MVDR 0/20 mine_mu=0.6994/md=0.6994 arch_mu=2.9001/md=2.9001 CBF 0/20 mine_mu=2.9212/md=2.9149 arch_mu=2.7487/md=2.7487 MUSIC 0/20 mine_mu=1.1121/md=1.0108 arch_mu=1.6792/md=1.3627 MUSIC_CSDM 0/20 mine_mu=2.3628/md=2.8139 arch_mu=1.727/md=1.3685
+3000Hz_2: s=1.24 (p1 0/6) MVDR 0/20 mine_mu=0.4097/md=0.4145 arch_mu=0.4579/md=0.4447 CBF 0/20 mine_mu=0.8876/md=0.8669 arch_mu=0.6129/md=0.0833 MUSIC 0/20 mine_mu=1.54/md=1.1912 arch_mu=1.4638/md=1.1399 MUSIC_CSDM 0/20 mine_mu=3.5952/md=4.0004 arch_mu=2.0706/md=2.1847
+3000Hz_3: s=1.24 (p1 0/6) MVDR 6/20 mine_mu=0.6407/md=0.6395 arch_mu=0.6603/md=0.6672 CBF 0/20 mine_mu=1.0833/md=1.0833 arch_mu=1.1111/md=1.1111 MUSIC 0/20 mine_mu=2.3545/md=2.517 arch_mu=2.013/md=2.2445 MUSIC_CSDM 0/20 mine_mu=2.2512/md=2.3521 arch_mu=1.9029/md=2.1143
+5000Hz_1: s=1.24 (p1 0/6) MVDR 0/20 mine_mu=5.0398/md=5.0389 arch_mu=5.0591/md=5.0601 CBF 0/20 mine_mu=1.3162/md=0.7783 arch_mu=1.0883/md=1.0833 MUSIC 0/20 mine_mu=1.7627/md=1.2833 arch_mu=1.4394/md=1.1452 MUSIC_CSDM 0/20 mine_mu=5.0423/md=5.0407 arch_mu=2.0934/md=1.7968
+5000Hz_2: s=1.24 (p1 0/2) MVDR 0/1 mine_mu=1.6197/md=1.6197 arch_mu=1.0636/md=1.0636 CBF 0/1 mine_mu=1.9078/md=1.9078 arch_mu=1.0848/md=1.0848 MUSIC 0/1 mine_mu=0.0393/md=0.0393 arch_mu=1.8344/md=1.8344 MUSIC_CSDM 0/1 mine_mu=1.7502/md=1.7502 arch_mu=0.9957/md=0.9957
+5000Hz_3: s=1.24 (p1 3/6) MVDR 20/20 mine_mu=0.1944/md=0.1944 arch_mu=0.1944/md=0.1944 CBF 20/20 mine_mu=0.6389/md=0.6389 arch_mu=0.6389/md=0.6389 MUSIC 0/20 mine_mu=1.7402/md=1.4885 arch_mu=2.6164/md=2.4726 MUSIC_CSDM 0/20 mine_mu=0.5324/md=0.5143 arch_mu=1.4481/md=1.0502
+7000Hz_1: s=1.2375 (p1 3/6) MVDR 0/20 mine_mu=0.1416/md=0.1416 arch_mu=2.2741/md=2.2746 CBF 20/20 mine_mu=4.25/md=4.25 arch_mu=4.25/md=4.25 MUSIC 0/20 mine_mu=2.7804/md=2.1109 arch_mu=2.041/md=2.1051 MUSIC_CSDM 0/20 mine_mu=4.4544/md=5.0007 arch_mu=2.5219/md=2.2739
+7000Hz_2: s=1.24 (p1 0/2) MVDR 0/1 mine_mu=2.1886/md=2.1886 arch_mu=0.2373/md=0.2373 CBF 0/1 mine_mu=0.9317/md=0.9317 arch_mu=1.2868/md=1.2868 MUSIC 0/1 mine_mu=0.584/md=0.584 arch_mu=1.98/md=1.98 MUSIC_CSDM 0/1 mine_mu=1.1142/md=1.1142 arch_mu=1.0172/md=1.0172
+7000Hz_3: s=1.24 (p1 0/2) MVDR 0/1 mine_mu=0.473/md=0.473 arch_mu=0.4176/md=0.4176 CBF 0/1 mine_mu=0.6111/md=0.6111 arch_mu=0.6389/md=0.6389 MUSIC 0/1 mine_mu=1.4423/md=1.4423 arch_mu=2.7779/md=2.7779 MUSIC_CSDM 0/1 mine_mu=1.9444/md=1.9444 arch_mu=2.3176/md=2.3176
+9000Hz_1: s=1.2375 (p1 3/6) MVDR 1/20 mine_mu=0.4329/md=0.0878 arch_mu=2.4248/md=2.4451 CBF 20/20 mine_mu=2.2222/md=2.2222 arch_mu=2.2222/md=2.2222 MUSIC 0/20 mine_mu=1.7561/md=2.0333 arch_mu=2.2544/md=2.2682 MUSIC_CSDM 0/20 mine_mu=1.4748/md=0.9039 arch_mu=1.8422/md=1.5587
+9000Hz_2: s=1.24 (p1 0/6) MVDR 0/20 mine_mu=1.5993/md=1.5952 arch_mu=1.7232/md=1.7224 CBF 0/20 mine_mu=1.1647/md=1.1483 arch_mu=1.7105/md=1.6835 MUSIC 0/20 mine_mu=2.0595/md=1.9596 arch_mu=1.9199/md=1.6647 MUSIC_CSDM 0/20 mine_mu=1.6836/md=1.6997 arch_mu=1.8451/md=1.7344
+9000Hz_3: s=1.24 (p1 0/6) MVDR 0/20 mine_mu=1.5591/md=1.5578 arch_mu=1.9452/md=1.9452 CBF 0/20 mine_mu=2.9186/md=2.92 arch_mu=2.416/md=2.416 MUSIC 0/20 mine_mu=1.8062/md=1.9169 arch_mu=2.3398/md=2.3636 MUSIC_CSDM 0/20 mine_mu=2.7223/md=2.7222 arch_mu=1.1787/md=0.5365
+Traceback (most recent call last):
+  File "code/val_hist8.py", line 147, in <module>
+    json.dump(report, f, ensure_ascii=False, indent=1)
+  File "/usr/lib/python3.8/json/__init__.py", line 179, in dump
+    for chunk in iterable:
+  File "/usr/lib/python3.8/json/encoder.py", line 431, in _iterencode
+    yield from _iterencode_dict(o, _current_indent_level)
+  File "/usr/lib/python3.8/json/encoder.py", line 405, in _iterencode_dict
+    yield from chunks
+  File "/usr/lib/python3.8/json/encoder.py", line 405, in _iterencode_dict
+    yield from chunks
+  File "/usr/lib/python3.8/json/encoder.py", line 438, in _iterencode
+    o = _default(o)
+  File "/usr/lib/python3.8/json/encoder.py", line 179, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type int64 is not JSON serializable
