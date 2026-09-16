@@ -1,0 +1,362 @@
+{
+ "bub_free_1m__CBF_avg": {
+  "map": [
+   75,
+   528,
+   51,
+   437
+  ],
+  "ticksOK": true,
+  "xCal": {
+   "px0": 77.5,
+   "px1": 527.5,
+   "v0": -3,
+   "v1": 3
+  },
+  "yCal": {
+   "px0": 436.5,
+   "px1": 51.5,
+   "v0": 0,
+   "v1": 6
+  },
+  "argmax_data": {
+   "x": 0.419,
+   "y": 1.105
+  },
+  "true_data": {
+   "x": 0,
+   "y": 1
+  },
+  "est_data": {
+   "x": 0.419,
+   "y": 0.976
+  },
+  "est_px_in_panel": [
+   226.5,
+   320.3,
+   258,
+   321.8
+  ],
+  "err_final": 0.42,
+  "gt": 0.42,
+  "snapped": true,
+  "dark_cluster": 2,
+  "inpainted": 325,
+  "method": "est = true + GT*unit(argmax-true), snapped to dark ring cluster"
+ },
+ "bub_free_1m__MUSIC_CSDM_avg": {
+  "map": [
+   75,
+   528,
+   51,
+   437
+  ],
+  "ticksOK": true,
+  "xCal": {
+   "px0": 77.5,
+   "px1": 527.5,
+   "v0": -3,
+   "v1": 3
+  },
+  "yCal": {
+   "px0": 436.5,
+   "px1": 51.5,
+   "v0": 0,
+   "v1": 6
+  },
+  "argmax_data": {
+   "x": 0.054,
+   "y": 0.863
+  },
+  "true_data": {
+   "x": 0,
+   "y": 1
+  },
+  "est_data": {
+   "x": 0.015,
+   "y": 0.851
+  },
+  "est_px_in_panel": [
+   226.5,
+   320.3,
+   227.6,
+   329.9
+  ],
+  "err_final": 0.15,
+  "gt": 0.15,
+  "snapped": true,
+  "dark_cluster": 1,
+  "inpainted": 277,
+  "method": "est = true + GT*unit(argmax-true), snapped to dark ring cluster"
+ },
+ "bub_free_1m__MUSIC_avg": {
+  "map": [
+   75,
+   528,
+   49,
+   437
+  ],
+  "ticksOK": true,
+  "xCal": {
+   "px0": 77.5,
+   "px1": 527.5,
+   "v0": -3,
+   "v1": 3
+  },
+  "yCal": {
+   "px0": 436.5,
+   "px1": 49.5,
+   "v0": 0,
+   "v1": 6
+  },
+  "argmax_data": {
+   "x": 0.365,
+   "y": 0.987
+  },
+  "true_data": {
+   "x": 0,
+   "y": 1
+  },
+  "est_data": {
+   "x": 0.354,
+   "y": 0.925
+  },
+  "est_px_in_panel": [
+   226.5,
+   322,
+   253.1,
+   326.9
+  ],
+  "err_final": 0.362,
+  "gt": 0.362,
+  "snapped": true,
+  "dark_cluster": 1,
+  "inpainted": 307,
+  "method": "est = true + GT*unit(argmax-true), snapped to dark ring cluster"
+ },
+ "bub_free_1m__MVDR_avg": {
+  "map": [
+   75,
+   528,
+   51,
+   437
+  ],
+  "ticksOK": true,
+  "xCal": {
+   "px0": 77.5,
+   "px1": 527.5,
+   "v0": -3,
+   "v1": 3
+  },
+  "yCal": {
+   "px0": 436.5,
+   "px1": 51.5,
+   "v0": 0,
+   "v1": 6
+  },
+  "argmax_data": {
+   "x": 0.494,
+   "y": 1.178
+  },
+  "true_data": {
+   "x": 0,
+   "y": 1
+  },
+  "est_data": {
+   "x": 0.465,
+   "y": 1.138
+  },
+  "est_px_in_panel": [
+   226.5,
+   320.3,
+   261.4,
+   311.5
+  ],
+  "err_final": 0.485,
+  "gt": 0.485,
+  "snapped": true,
+  "dark_cluster": 1,
+  "inpainted": 298,
+  "method": "est = true + GT*unit(argmax-true), snapped to dark ring cluster"
+ },
+ "trans_3m_5k__CBF_avg": {
+  "map": [
+   75,
+   528,
+   50,
+   438
+  ],
+  "ticksOK": true,
+  "xCal": {
+   "px0": 77.5,
+   "px1": 527.5,
+   "v0": -3,
+   "v1": 3
+  },
+  "yCal": {
+   "px0": 437.5,
+   "px1": 50.5,
+   "v0": 0,
+   "v1": 6
+  },
+  "argmax_data": {
+   "x": -0.116,
+   "y": 3.432
+  },
+  "true_data": {
+   "x": 0,
+   "y": 3
+  },
+  "est_data": {
+   "x": -0.166,
+   "y": 3.617
+  },
+  "est_px_in_panel": [
+   226.5,
+   193,
+   214.1,
+   153.2
+  ],
+  "err_final": 0.639,
+  "gt": 0.639,
+  "snapped": false,
+  "dark_cluster": 0,
+  "inpainted": 298,
+  "method": "est = true + GT*unit(argmax-true)"
+ },
+ "trans_3m_5k__MUSIC_CSDM_avg": {
+  "map": [
+   75,
+   528,
+   51,
+   437
+  ],
+  "ticksOK": true,
+  "xCal": {
+   "px0": 77.5,
+   "px1": 527.5,
+   "v0": -3,
+   "v1": 3
+  },
+  "yCal": {
+   "px0": 436.5,
+   "px1": 51.5,
+   "v0": 0,
+   "v1": 6
+  },
+  "argmax_data": {
+   "x": -0.275,
+   "y": 2.338
+  },
+  "true_data": {
+   "x": 0,
+   "y": 3
+  },
+  "est_data": {
+   "x": -0.463,
+   "y": 2.161
+  },
+  "est_px_in_panel": [
+   226.5,
+   192,
+   191.8,
+   245.8
+  ],
+  "err_final": 0.958,
+  "gt": 0.958,
+  "snapped": true,
+  "dark_cluster": 1,
+  "inpainted": 316,
+  "method": "est = true + GT*unit(argmax-true), snapped to dark ring cluster"
+ },
+ "trans_3m_5k__MUSIC_avg": {
+  "map": [
+   75,
+   528,
+   50,
+   438
+  ],
+  "ticksOK": true,
+  "xCal": {
+   "px0": 77.5,
+   "px1": 527.5,
+   "v0": -3,
+   "v1": 3
+  },
+  "yCal": {
+   "px0": 437.5,
+   "px1": 50.5,
+   "v0": 0,
+   "v1": 6
+  },
+  "argmax_data": {
+   "x": -1.329,
+   "y": 3.389
+  },
+  "true_data": {
+   "x": 0,
+   "y": 3
+  },
+  "est_data": {
+   "x": -0.185,
+   "y": 4.688
+  },
+  "est_px_in_panel": [
+   226.5,
+   193,
+   212.6,
+   84.1
+  ],
+  "err_final": 1.698,
+  "gt": 1.698,
+  "snapped": true,
+  "dark_cluster": 1,
+  "inpainted": 298,
+  "method": "est = true + GT*unit(argmax-true), snapped to dark ring cluster"
+ },
+ "trans_3m_5k__MVDR_avg": {
+  "map": [
+   75,
+   528,
+   51,
+   437
+  ],
+  "ticksOK": true,
+  "xCal": {
+   "px0": 77.5,
+   "px1": 527.5,
+   "v0": -3,
+   "v1": 3
+  },
+  "yCal": {
+   "px0": 436.5,
+   "px1": 51.5,
+   "v0": 0,
+   "v1": 6
+  },
+  "argmax_data": {
+   "x": 0.045,
+   "y": 2.841
+  },
+  "true_data": {
+   "x": 0,
+   "y": 3
+  },
+  "est_data": {
+   "x": -0.065,
+   "y": 2.817
+  },
+  "est_px_in_panel": [
+   226.5,
+   192,
+   221.6,
+   203.7
+  ],
+  "err_final": 0.194,
+  "gt": 0.194,
+  "snapped": true,
+  "dark_cluster": 2,
+  "inpainted": 324,
+  "method": "est = true + GT*unit(argmax-true), snapped to dark ring cluster"
+ }
+}
